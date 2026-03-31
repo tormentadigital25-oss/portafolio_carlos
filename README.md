@@ -1,16 +1,17 @@
-# portafolio_carlos
+# Mi Portafolio Profesional 🚀
 
-A new Flutter project.
+¡Hola! Soy Carlos, desarrollador especializado en el ecosistema **Flutter** y **Dart**. Este sitio web es mi carta de presentación, donde exhibo mis proyectos y soluciones tecnológicas.
 
-## Getting Started
+## 🛠️ Tecnologías y Herramientas
+* **Frontend:** Flutter Web (Optimizado para alto rendimiento).
+* **Lenguaje:** Dart.
+* **Diseño:** 100% Responsivo (Probado en dispositivos como Moto G15).
+* **Integraciones:** Firebase, APIs de Google, AppSheet y Apps Script.
 
-This project is a starting point for a Flutter application.
+## 📱 Proyectos en este Portafolio
+* **Pizza Delivery:** App con manejo de estados y catálogo dinámico.
+* **Ecommerce de Ropa:** Interfaz moderna con navegación fluida.
+* **Gestión Administrativa:** Automatización de procesos y datos.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+Desarrollado con ❤️ usando Flutter.
