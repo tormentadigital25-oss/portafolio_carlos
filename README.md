@@ -1,5 +1,7 @@
 # Mi Portafolio Profesional 🚀
 
+![Vista previa de la App](Smarthphone_Portafolio.png)
+
 ¡Hola! Soy Carlos, desarrollador especializado en el ecosistema **Flutter** y **Dart**. Este sitio web es mi carta de presentación, donde exhibo mis proyectos y soluciones tecnológicas.
 
 ## 🛠️ Tecnologías y Herramientas
