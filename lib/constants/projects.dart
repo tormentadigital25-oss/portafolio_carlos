@@ -13,7 +13,7 @@ final List<Projects> projects = [
       'Material UI',
       'Figma'
     ],
-    link: 'https://github.com/prabeshpudasaini/Portfolio',
+    link: 'https://github.com/tormentadigital25-oss/portafolio_carlos',
   ),
   const Projects(
     image: 'ecommerce.png',
@@ -26,7 +26,7 @@ final List<Projects> projects = [
       'Firebase',
       'Material UI',
     ],
-    link: 'https://github.com/prabeshpudasaini/e2ee_chat',
+    link: 'https://github.com/tormentadigital25-oss/mi_ecommerce_flutter',
   ),
   const Projects(
     image: 'delivery.png',
@@ -39,6 +39,6 @@ final List<Projects> projects = [
       'Firebase',
       'Material UI',
     ],
-    link: 'https://github.com/prabeshpudasaini/Document_Sharing_App',
+    link: 'https://github.com/tormentadigital25-oss/delivery_pizza_app',
   ),
 ];

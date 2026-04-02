@@ -23,7 +23,7 @@ class ResumeButton extends StatelessWidget {
           borderRadius: BorderRadius.circular(8),
         ),
       ),
-      label: const Text('View Resume'),
+      label: const Text('Ver Resumen'),
       icon: Icon(
         Icons.picture_as_pdf,
         color: colorScheme.onPrimary,

@@ -6,14 +6,14 @@ class Intro {
 }
 
 class Links {
-  static const github = 'https://github.com/prabeshpudasaini';
+  static const github = 'https://github.com/tormentadigital25-oss';
   static const githubRepository =
-      'https://github.com/prabeshpudasaini?tab=repositories';
-  static const linkedin = 'https://www.linkedin.com/in/prabesh-pudasaini/';
+      'https://github.com/tormentadigital25-oss?tab=repositories';
+  static const linkedin = 'https://www.linkedin.com/in/carlos-lupi-4ab035400/';
   static const phoneNo = '+584142331263';
   static const email = 'tormentadigital25@gmail.com';
   static const resume =
-      'https://prabesh.pages.dev/Prabesh_Pudasaini_Flutter_Developer_Resume.pdf';
+      'https://raw.githubusercontent.com/tormentadigital25-oss/portafolio_carlos/main/Carlos_Lupi_Resume.pdf';
 }
 
 class About {

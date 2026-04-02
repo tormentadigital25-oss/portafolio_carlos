@@ -24,7 +24,7 @@ class AppBarTitle extends StatelessWidget {
               color: colorScheme.primary,
             ),
             const SizedBox(width: 5),
-            const Text('Portfolio'),
+            const Text('Portafolio'),
           ],
         ),
       ),
